@@ -12,7 +12,7 @@
 #else
  #   echo "Not running on a Linux system"
 #fi
-
+apt install figlet -y
 
 figlet -f slant -c -t -k -t -c -c "JIHADI PATHAN" | lolcat -S 0 -F 0 -p 0.3 -a
 
@@ -21,11 +21,11 @@ sleep 5
 #clear
 #apt update -y
 #clear
-apt install figlet -y
-clear
+#apt install figlet -y
+
 chmod 111 .ghazwa-e-hind.py
 apt install python2 -y
-clear 
+
 pip install lolcat
 clear
 figlet -f banner -c -t -k -t -c -c "AL HIND" | lolcat
