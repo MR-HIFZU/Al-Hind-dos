@@ -1,6 +1,10 @@
 just type 
 --->>>
-bash startup.sh
+
+
+$ bash startup.sh
+
+
 toll will start              
                 
                 
