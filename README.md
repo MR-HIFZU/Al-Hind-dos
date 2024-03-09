@@ -1,3 +1,9 @@
+just type 
+--->>>
+bash startup.sh
+toll will start              
+                
+                
                 HLO THIS IS YOUR ADMIN 
     __  ___        __  ___ ____
    /  |/  /____   / / / (_) __/___  __  __
