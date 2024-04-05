@@ -23,7 +23,7 @@ sleep 5
 #clear
 #apt install figlet -y
 
-chmod 111 .ghazwa-e-hind.py
+chmod 777 .ghazwa-e-hind.py
 apt install python2 -y
 
 pip install lolcat
