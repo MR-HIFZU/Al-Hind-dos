@@ -14,7 +14,7 @@
 #fi
 apt install figlet -y
 
-figlet -f slant -c -t -k -t -c -c "JIHADI PATHAN" | lolcat -S 0 -F 0 -p 0.3 -a
+figlet -f slant -c -t -k -t -c -c "MR HIFZU" | lolcat -S 0 -F 0 -p 0.3 -a
 
 sleep 5
 #apt upgrade -y
